@@ -23,9 +23,4 @@ File Organizer is a Python script that sorts files into organized folders based 
 - Python 3.x installed on your system.
 - The `shutil` and `os` modules (part of Python's standard library).
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/FileOrganizer.git
